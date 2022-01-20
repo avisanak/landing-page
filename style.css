@@ -1,0 +1,19 @@
+.header{
+    background-color: rgb(255, 115, 0);
+    text-align: center;
+    background-image: url(image/don.jpg);
+    background-size:cover ;
+    }
+.nav{
+    background-color: black;
+    color: cadetblue;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 10px;
+    
+}
+h1{
+    font-size: 45px;
+    margin: 50px;
+}
